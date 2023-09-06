@@ -14,3 +14,7 @@ Prefers color scheme media query?
 HTML accessibility
 - correct semantic structure (headings and tags)
 - correct ARIA for navigation
+
+# Day 1 reflections
+
+- always note and research project requirements before stating. Streamlines process and saves time.
