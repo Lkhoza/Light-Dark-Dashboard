@@ -18,3 +18,13 @@ HTML accessibility
 # Day 1 reflections
 
 - always note and research project requirements before stating. Streamlines process and saves time.
+
+# Day 2 
+
+- gitignore file tells github what not to upload to the repository. node modules shouldnt be uploaded as the clutter the repository
+
+  ## SCSS
+    - scss is the new way to write css. It allows for much more modulated structure to css code and new features
+    - Codercoder uses a utils folder with nested a scss functions file for rem calculations and a breakpoints file for writing media queries like reusable functions.
+
+- Knowing how to research is more important than knowing how to code. Strong research habits before starting and during a coding project are key. Spend the hours on necessary prep work.
